@@ -1,0 +1,15 @@
+{
+  "name": "test-el",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "start:watch": "npx electronmon --trace-warnings ."
+  },
+  "author": "akash",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^29.1.0"
+  }
+}
